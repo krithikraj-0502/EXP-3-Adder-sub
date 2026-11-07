@@ -110,6 +110,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 Thus, the Half Adder and Half Subtractor were designed, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
 
+<img width="1280" height="579" alt="exp3" src="https://github.com/user-attachments/assets/0e45a356-f757-486d-bfba-8bafe09efaa4" />
 
 
 
